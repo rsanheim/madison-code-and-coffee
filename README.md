@@ -11,4 +11,4 @@ I'd like to start a regular morning meet up of Madison hackers who either:
 
 This will be a completely language agnostic meetup.  It will be informal to start, with no topics and no speakers.
 
-We will use Issues in this repo to organize to start.
+We will use [Issues](https://github.com/rsanheim/madison-code-and-coffee/issues/) in this repo to organize things as a start.
